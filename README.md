@@ -1,0 +1,4 @@
+# amnh-dioramas
+3D digitizations of AMNH permanent hall dioramas created using photogrammetry, Gaussian splatting, and other 3D digitization methods.
+
+This repository contains a collection of 3D captures of dioramas from the American Museum of Natural History’s permanent halls. These models were created using Luma AI, photogrammetry, and Gaussian splatting techniques to explore new approaches to digitizing and visualizing museum environments. The goal of this project is to document, preserve, and share the spatial and aesthetic details of AMNH dioramas in high fidelity, supporting research, education, and creative applications in immersive media and visualization. Each folder includes capture notes, processing details, and output formats (e.g., .ply, .splat, .usdz, .glb) for reproducibility and reuse.
